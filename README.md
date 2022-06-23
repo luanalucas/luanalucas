@@ -31,5 +31,5 @@ function qa(name, age, work) {
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LUANALUCAS&repo=LUANALUCAS&theme=react)](https://github.com/LUANALUCAS/LUANALUCAS)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=luanalucas&repo=luanalucas&theme=react)](https://github.com/luanalucas/luanalucas)
  
