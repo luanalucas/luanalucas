@@ -1,9 +1,8 @@
 # Hi, I'm Luana Negreiros 
 
 ```
-function qa(name, age, work) {
+function qa(name, work) {
         this.name = name;
-        this.age = age;
         this.work = work;
       }
       let luanalucas = new dev('Luana Brenna','Quality analyst at FitBank450');
