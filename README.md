@@ -10,7 +10,14 @@ function qa(name, age, work) {
       console.log(luanalucas);
 ```
   
-#### 🚀 C / C# / C++ / Python
+<div>        
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+                    
+</div>
+
 
 <div>
   <a href="https://github.com/luanalucas">
@@ -19,10 +26,3 @@ function qa(name, age, work) {
 </div>
  
         
-<div>        
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-                    
-</div>
