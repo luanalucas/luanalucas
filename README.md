@@ -9,21 +9,19 @@ function qa(name, work) {
       console.log(luanalucas);
 ```
   
-<div align="center">        
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-                    
+<div align="center">   
+        <div style="display: inline_block"><br>
+        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />                    
 </div>
 
 
 <div>
-  <div style="display: inline_block"><br>
-  <a href="https://github.com/luanalucas">
-  
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api username=luanalucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalucas&layout=compact&langs_count=7&theme=dark"/>
+        <a href="https://github.com/luanalucas"> 
+        <img height="150em" src="https://github-readme-stats.vercel.app/api username=luanalucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalucas&layout=compact&langs_count=7&theme=dark"/>
    
 </div>
         
