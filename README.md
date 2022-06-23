@@ -1,4 +1,4 @@
-# Hi, I'm Luana Negreiros 
+# Hi, I'm Luana
 
 ```
 function qa(name, work) {
