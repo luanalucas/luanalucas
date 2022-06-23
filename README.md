@@ -26,10 +26,5 @@ function qa(name, age, work) {
    
 </div>
         
-</div>
-  ![Snake animation](https://github.com/luanalucas/luanalucas/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=luanalucas&repo=luanalucas&theme=react)](https://github.com/luanalucas/luanalucas)
+
  
