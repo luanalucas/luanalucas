@@ -26,7 +26,7 @@ function qa(name, work) {
 
 ##
         
-<div> 
+<div  align="center"> 
         <a href="https://www.linkedin.com/in/luana-brenna-1b45b4204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-                        thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
