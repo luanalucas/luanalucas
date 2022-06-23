@@ -9,13 +9,8 @@ function qa(name, age, work) {
       let luanalucas = new dev('Luana Brenna','Quality analyst at FitBank450');
       console.log(luanalucas);
 ```
-
-
-- #### 🔭 Hoje Trabalhando como Analista de qualidade na FitBank 450.
   
-- #### 🚀 C / C# / C++ / Python
-  
-- #### 🌱 Cursando Engenharia de Software na Universidade Federal do Ceará.
+#### 🚀 C / C# / C++ / Python
 
 <div>
   <a href="https://github.com/luanalucas">
