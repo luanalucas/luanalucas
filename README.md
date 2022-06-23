@@ -11,10 +11,10 @@ function qa(name, work) {
   
 <div align="center">   
        
-        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-        <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />                    
+        <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />                    
 </div>
 
 
