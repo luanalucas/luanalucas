@@ -1,11 +1,11 @@
 # Hi, I'm Luana
 
 ```
-function qa(name, work) {
+function a(name, work) {
         this.name = name;
         this.work = work;
       }
-      let luanalucas = new dev('Luana Brenna','Quality analyst at FitBank450');
+      let luanalucas = new a('Luana Brenna','security analyst developer at FitBank450');
       console.log(luanalucas);
 ```
 
