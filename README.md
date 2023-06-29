@@ -1,11 +1,10 @@
 # Hi, I'm Luana
 
 ```
-function a(name, work) {
+function a(name) {
         this.name = name;
-        this.work = work;
       }
-      let luanalucas = new a('Luana Brenna','security at FitBank450');
+      let luanalucas = new a('Luana Brenna');
       console.log(luanalucas);
 ```
 
